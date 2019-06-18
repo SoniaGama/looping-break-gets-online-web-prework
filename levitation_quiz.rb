@@ -3,6 +3,10 @@ def levitation_quiz
   
 	#your code here
 end
+
+
+ #Example:
+ 
  #def annoying
  #   loop do 
  #      puts "What's up, Doc?"
